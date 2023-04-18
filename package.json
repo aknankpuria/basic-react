@@ -1,0 +1,9 @@
+{
+  "name": "react",
+  "version": "1.0.0",
+  "description": "basics of react",
+  "main": "index.js",
+  "repository": "https://github.com/aknankpuria/basic-react.git",
+  "author": "Aslam Khan shah <aksi34012@gmail.com>",
+  "license": "MIT"
+}
